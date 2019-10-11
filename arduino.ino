@@ -7,7 +7,7 @@ int l,r;
 int mrf=24, mrb=25, mlf=22,mlb=23;//mrf = dirction,mrb = break;
 int pwml=11,pwmr=12;
 
-            /**************************/
+        
 
 void setup() {
 Serial.begin(9600);
